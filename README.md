@@ -41,20 +41,26 @@ May the force be with you!
 |<br>
 |-->documentos<br>
   &emsp;|-->Entrega 1<br>
-    &emsp;&emsp;|-->Analise Inferencial de Dados<br>
-    &emsp;&emsp;|-->Contabilidade & Financas<br>
-    &emsp;&emsp;|-->ES & AS<br>
-    &emsp;&emsp;|-->Projeto Interdisciplinar - Ciencia de Dados<br>
-  &emsp;|-->Entrega 2<br>
-    &emsp;&emsp;|-->Analise Inferencial de Dados<br>
-    &emsp;&emsp;|-->Contabilidade & Financas<br>
-    &emsp;&emsp;|-->ES & AS<br>
-    &emsp;&emsp;|-->Projeto Interdisciplinar - Ciencia de Dados<br>
-  &emsp;|-->Entrega 3<br>
-    &emsp;&emsp;|-->Analise Inferencial de Dados<br>
-    &emsp;&emsp;|-->Contabilidade & Financas<br>
-    &emsp;&emsp;|-->ES & AS<br>
-    &emsp;&emsp;|-->Projeto Interdisciplinar - Ciencia de Dados<br>
+    &emsp;&emsp;|-->Calculo II <br>
+    &emsp;&emsp;|-->Projetos em Banco de Dados<br>
+    &emsp;&emsp;|-->Gestão Empresarial e Dinâmicas das Organizações<br>
+    &emsp;&emsp;|-->Desenvolvimento Web Full Stack<br>
+    &emsp;&emsp;|-->Projeto Interdisciplinar: Programação Web<br>
+
+   &emsp;|-->Entrega 2<br>
+    &emsp;&emsp;|-->Calculo II <br>
+    &emsp;&emsp;|-->Projetos em Banco de Dados<br>
+    &emsp;&emsp;|-->Gestão Empresarial e Dinâmicas das Organizações<br>
+    &emsp;&emsp;|-->Desenvolvimento Web Full Stack<br>
+    &emsp;&emsp;|-->Projeto Interdisciplinar: Programação Web<br>
+
+    &emsp;|-->Entrega 3<br>
+    &emsp;&emsp;|-->Calculo II <br>
+    &emsp;&emsp;|-->Projetos em Banco de Dados<br>
+    &emsp;&emsp;|-->Gestão Empresarial e Dinâmicas das Organizações<br>
+    &emsp;&emsp;|-->Desenvolvimento Web Full Stack<br>
+    &emsp;&emsp;|-->Projeto Interdisciplinar: Programação Web<br>
+ 
   &emsp;|Documentação.docx<br>
   readme.md<br>
 |-->imagens<br>
