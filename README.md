@@ -19,7 +19,9 @@ Vide tutoriais do PI.
 ## Integrantes: <a href=https://www.linkedin.com/in/estherolvr/>Esther Oliveira Costa</a>, <a href=https://www.linkedin.com/in/higor-fonseca-santos/>Higor Fonseca </a>, <a href=https://www.linkedin.com/in/joaovictordefaria/>João Victor de Faria</a>, <a href="https://www.linkedin.com/in/mellina-de-p%C3%A1dua-618081227/">Mellina de Pádua
  
 
-## Professores Orientadores: <a href="https://www.linkedin.com/in/eduardo-savino-gomes-77833a10/">Eduardo Savino Gomes</a>, <a href="https://www.linkedin.com/in/lucymari/">Lucy Mari Tabuti</a>, <a href="https://www.linkedin.com/in/paula-astorino-432b5812a/">Paula Sanchez Astorino</a>, <a href="https://www.linkedin.com/in/professorrodnil/">Rodnil da Silva Moreira Lisbôa</a>
+## Professores Orientadores:
+<a href="https://www.linkedin.com/in/cristina-machado-corr%C3%AAa-leite-630309160/">Cristina Machado Corrêa Leite</a>, <a href="https://www.linkedin.com/in/dolemes/">David De Oliveira Lemes</a>, <a href="https://www.linkedin.com/in/francisco-escobar/">Francisco de Souza Escobar</a>, <a href="https://www.linkedin.com/in/katia-bossi/">Katia Milani Lara Bossi</a>, <a href="https://www.linkedin.com/in/leonardo-fabris-lugoboni-a3369416/">Leonardo Fabris Lugoboni</a>
+
 ## Descrição
 
 <p align="center">
