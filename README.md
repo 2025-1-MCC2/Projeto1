@@ -53,6 +53,14 @@ May the force be with you!
     &emsp;&emsp;|-->Gestão Empresarial e Dinâmicas das Organizações<br>
     &emsp;&emsp;|-->Desenvolvimento Web Full Stack<br>
     &emsp;&emsp;|-->Projeto Interdisciplinar: Programação Web<br>
+
+   
+   &emsp;|-->Entrega 2<br>
+    &emsp;&emsp;|-->Calculo II <br>
+    &emsp;&emsp;|-->Projetos em Banco de Dados<br>
+    &emsp;&emsp;|-->Gestão Empresarial e Dinâmicas das Organizações<br>
+    &emsp;&emsp;|-->Desenvolvimento Web Full Stack<br>
+    &emsp;&emsp;|-->Projeto Interdisciplinar: Programação Web<br>
  
   &emsp;|Documentação.docx<br>
   readme.md<br>
