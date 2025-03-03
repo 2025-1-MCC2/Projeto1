@@ -16,8 +16,7 @@ Vide tutoriais do PI.
 
 ## Nome do Grupo
 
-## Integrantes: <a href=https://www.linkedin.com/in/estherolvr/>Esther Oliveira Costa</a>, <a href=https://www.linkedin.com/in/higor-fonseca-santos/>Higor Fonseca </a>, 
-<a href=https://www.linkedin.com/in/joaovictordefaria/>João Victor de Faria</a>, <a href="https://www.linkedin.com/in/mellina-de-p%C3%A1dua-618081227/">Mellina de Pádua
+## Integrantes: <a href=https://www.linkedin.com/in/estherolvr/>Esther Oliveira Costa</a>, <a href=https://www.linkedin.com/in/higor-fonseca-santos/>Higor Fonseca </a>, <a href=https://www.linkedin.com/in/joaovictordefaria/>João Victor de Faria</a>, <a href="https://www.linkedin.com/in/mellina-de-p%C3%A1dua-618081227/">Mellina de Pádua
  
 
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/eduardo-savino-gomes-77833a10/">Eduardo Savino Gomes</a>, <a href="https://www.linkedin.com/in/lucymari/">Lucy Mari Tabuti</a>, <a href="https://www.linkedin.com/in/paula-astorino-432b5812a/">Paula Sanchez Astorino</a>, <a href="https://www.linkedin.com/in/professorrodnil/">Rodnil da Silva Moreira Lisbôa</a>
