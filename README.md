@@ -25,8 +25,6 @@ Vide tutoriais do PI.
 
 <p align="center">
 <img src="https://pix4free.org/assets/library/2021-01-20/originals/game.jpg" alt="NOME DO JOGO" border="0">
-  Game by <a href="http://www.nyphotographic.com/">Nick Youngson</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
-</p>
 
 
 Este projeto tem como objetivo o desenvolvimento de uma nova versão do site da ONG Instituto Criativo, trazendo melhorias significativas na gestão e atualização de conteúdos. A principal inovação será a implementação de um dashboard administrativo, acessível exclusivamente pelo Administrador Master, que permitirá maior autonomia na administração do site sem necessidade de conhecimentos em programação.
