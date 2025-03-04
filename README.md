@@ -32,26 +32,27 @@ Vide tutoriais do PI.
 Este projeto tem como objetivo o desenvolvimento de uma nova versão do site da ONG Instituto Criativo, trazendo melhorias significativas na gestão e atualização de conteúdos. A principal inovação será a implementação de um dashboard administrativo, acessível exclusivamente pelo Administrador Master, que permitirá maior autonomia na administração do site sem necessidade de conhecimentos em programação.
 
 # Principais Funcionalidades
-1. Dashboard Administrativo
+# 1. Dashboard Administrativo
 
 Acesso restrito ao Administrador Master.
 Interface intuitiva para facilitar a gestão do site.
 Monitoramento de métricas e atualizações de projetos da ONG.
 
-2. Sistema de Atualização Automatizado
+# 2. Sistema de Atualização Automatizado
 
 O Administrador Master poderá cadastrar novos eventos e projetos preenchendo um formulário.
 As informações serão publicadas automaticamente no site, sem necessidade de intervenção manual na programação.
 
-3. Chat Interno
+# 3. Chat Interno
 
 Canal de comunicação entre administradores e equipe para facilitar a troca de informações e alinhamento sobre os projetos.
 
-4. Melhorias na Experiência do Usuário
+# 4. Melhorias na Experiência do Usuário
 
 Design responsivo e acessível.
 Navegação otimizada para facilitar a busca por informações sobre a ONG e seus eventos.
-Objetivo
+
+# 5. Objetivo
 O projeto visa proporcionar maior eficiência e independência na gestão do site da ONG, garantindo que as atualizações sejam feitas de forma rápida e acessível, sem demandar conhecimento técnico em programação.
 
 
