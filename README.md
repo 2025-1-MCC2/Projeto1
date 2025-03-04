@@ -53,6 +53,7 @@ Design responsivo e acessível.
 Navegação otimizada para facilitar a busca por informações sobre a ONG e seus eventos.
 
 5. Objetivo
+   
 O projeto visa proporcionar maior eficiência e independência na gestão do site da ONG, garantindo que as atualizações sejam feitas de forma rápida e acessível, sem demandar conhecimento técnico em programação.
 
 
