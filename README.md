@@ -23,9 +23,6 @@ Vide tutoriais do PI.
 
 ## Descrição
 
-<p align="center">
-<img src="https://pix4free.org/assets/library/2021-01-20/originals/game.jpg" alt="NOME DO JOGO" border="0">
-
 
 Este projeto tem como objetivo o desenvolvimento de uma nova versão do site da ONG Instituto Criativo, trazendo melhorias significativas na gestão e atualização de conteúdos. A principal inovação será a implementação de um dashboard administrativo, acessível exclusivamente pelo Administrador Master, que permitirá maior autonomia na administração do site sem necessidade de conhecimentos em programação.
 
@@ -54,7 +51,16 @@ Navegação otimizada para facilitar a busca por informações sobre a ONG e seu
    
 O projeto visa proporcionar maior eficiência e independência na gestão do site da ONG, garantindo que as atualizações sejam feitas de forma rápida e acessível, sem demandar conhecimento técnico em programação.
 
+# 🚀 Tecnologias Utilizadas
+Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
+⚡ Frontend: React + Vite
+🎨 Estilização: Tailwind CSS
+⚙ Backend: .NET
+🗄 Banco de Dados: MySQL
+🌐 Gerenciamento de Estado: Context API
+📊 Gráficos e Visualizações: Recharts
+🔧 Outras Ferramentas: ESLint, Prettier, PostCSS
 
 ## 🛠 Estrutura de pastas
 
