@@ -8,8 +8,7 @@ Vide tutoriais do PI.
 
 # FECAP - Fundação de Comércio Álvares Penteado
 
-<p align="center">
-<a href= "https://www.fecap.br/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0"></a>
+
 </p>
 
 # Nome do Projeto
@@ -20,6 +19,9 @@ Vide tutoriais do PI.
  
 
 ## Professores Orientadores:  <a href="https://www.linkedin.com/in/cristina-machado-corr%C3%AAa-leite-630309160/">Cristina Machado Corrêa Leite</a>, <a href="https://www.linkedin.com/in/dolemes/">David De Oliveira Lemes</a>, <a href="https://www.linkedin.com/in/francisco-escobar/">Francisco de Souza Escobar</a>, <a href="https://www.linkedin.com/in/katia-bossi/">Katia Milani Lara Bossi</a>, <a href="https://www.linkedin.com/in/leonardo-fabris-lugoboni-a3369416/">Leonardo Fabris Lugoboni</a>
+
+<p align="center">
+<a href= "https://www.fecap.br/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0"></a>
 
 ## Descrição
 
@@ -54,13 +56,13 @@ O projeto visa proporcionar maior eficiência e independência na gestão do sit
 # 🚀 Tecnologias Utilizadas
 Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-⚡ Frontend: React + Vite
-🎨 Estilização: Tailwind CSS
-⚙ Backend: .NET
-🗄 Banco de Dados: MySQL
-🌐 Gerenciamento de Estado: Context API
-📊 Gráficos e Visualizações: Recharts
-🔧 Outras Ferramentas: ESLint, Prettier, PostCSS
+⚡ Frontend: React + Vite<br>
+🎨 Estilização: Tailwind CSS<br>
+⚙ Backend: .NET<br>
+🗄 Banco de Dados: MySQL<br>
+🌐 Gerenciamento de Estado: Context API<br>
+📊 Gráficos e Visualizações: Recharts<br>
+🔧 Outras Ferramentas: ESLint, Prettier, PostCSS<br>
 
 ## 🛠 Estrutura de pastas
 
