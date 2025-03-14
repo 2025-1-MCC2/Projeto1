@@ -47,13 +47,18 @@ font-family: "Poppins", sans-serif;
     background-color: #fff;
 }
 
+.container-geral-sobre{
+  display: flex;
+  justify-content: center;
+}
+
 /* Seção "Sobre" */
 .ic-sobre-container {
     display: flex;
     align-items: center;
     max-width: 1000px;
     padding-bottom: 20px;
-    margin-left: 200px; /* Ainda mais para a direita */
+    
 }
 
 .ic-sobre-titulo {
@@ -389,7 +394,7 @@ h1 {
   display: flex;
   align-items: flex-start; 
   background-color: white;
-  padding: 20px;
+  padding: 40px;
   border-radius: 10px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   margin-bottom: 20px;
@@ -410,6 +415,7 @@ h1 {
 }
 
 .info {
+  font-weight: 500;
   text-align: left;
   flex-grow: 1; 
 }
@@ -451,14 +457,14 @@ h1 {
 
 .carousel {
   position: relative;
-  width: 80%;
-  max-width: 1000px;
+  max-width: 90%;
   margin: 50px auto; 
   overflow: hidden;
 }
 
 .carousel-container {
   display: flex;
+  width: 100%;
   transition: transform 0.5s ease-in-out;
 }
 
@@ -573,13 +579,14 @@ h1 {
   max-width: 1200px;
   margin: 0 auto;
   overflow: hidden;
-  padding: 20px 0;
+  padding-top: 55px;
 }
 
 /* Contêiner das marcas */
 .marcas-carousel-container {
   display: flex;
   transition: transform 0.5s ease-in-out;
+  margin-top: -100px;
 }
 
 /* Estilo de cada item do carrossel de marcas */
@@ -606,18 +613,33 @@ h1 {
 
 /* Estilo do contêiner da imagem */
 .image-containerbanner {
+  background-color: #FFFFD8;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
   position: relative; 
   width: 100%;
-  max-height: 100vh;
+  height: 800px;
 }
 
-/* Estilo da imagem */
-.image-containerbanner img {
-  width: 100%; 
-  height: auto;
-  max-height: 100vh; 
-  object-fit: cover; 
+.header-juntese{
+  display: flex;
+  justify-content: center;
+  background-color: #FFFA96;
+  width: 100%;
+  padding: 20px;
+  font-weight: 500;
+  font-size: 35px;
 }
+
+.junte-se{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    height: 100%;
+    align-items: center;
+}
+
 
 /* Estilo do botão */
 .botao {
@@ -645,12 +667,14 @@ h1 {
   display: flex; 
   width: 100vw; 
   height: 50vh; 
+  margin-top: -50px;
 }
 
 /* Lado esquerdo (60%) */
 .lado-esquerdo {
   flex: 60%; 
   background-color: #14b2af;
+  opacity: 0.7;
   display: flex;
   flex-direction: column; 
   justify-content: center;
@@ -661,9 +685,11 @@ h1 {
 }
 
 /* Logo no canto */
-.lado-esquerdo .logo {
+.lado-esquerdo .divLogo{
   width: 100px; 
   margin-bottom: 20px; 
+  z-index: 1;
+  opacity: 1;
 }
 
 /* Texto no lado esquerdo */
@@ -677,7 +703,8 @@ h1 {
 /* Lado direito (40%) */
 .lado-direito {
   flex: 40%; 
-  background-color: #f6ff00; 
+  background-color: #FF254A; 
+  opacity: 0.6;
   display: flex;
   justify-content: center; 
   align-items: center; 
