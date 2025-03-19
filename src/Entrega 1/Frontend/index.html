@@ -7,6 +7,7 @@
   <script src="https://cdn.tailwindcss.com"></script>
   <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" rel="stylesheet"/>
   <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&amp;display=swap" rel="stylesheet"/>
+  <link rel="stylesheet" href="style.css">
 </head>
 <body class="font-roboto">
   <!-- Header -->
@@ -19,34 +20,61 @@
         </span>
       </div>
       <nav class="hidden md:flex space-x-4">
-        <a class="text-gray-700 hover:text-gray-900 font-bold" href="#">Home</a>
-        <a class="text-gray-700 hover:text-gray-900 font-bold" href="#">Segmento</a>
-        <a class="text-gray-700 hover:text-gray-900 font-bold" href="#">Impacto Social</a>
-        <a class="text-gray-700 hover:text-gray-900 font-bold" href="#">Colaborador</a>
-        <a class="text-gray-700 hover:text-gray-900 font-bold" href="#">Marcas</a>
-
+        <a class="text-gray-700 hover:text-gray-900 font-bold" href="#sobre">Sobre</a>
+        <a class="text-gray-700 hover:text-gray-900 font-bold" href="#segmento">Segmento</a>
+        <a class="text-gray-700 hover:text-gray-900 font-bold" href="#impacto">Impacto Social</a>
+        <a class="text-gray-700 hover:text-gray-900 font-bold" href="#colaborador">Colaborador</a>
+        <a class="text-gray-700 hover:text-gray-900 font-bold" href="#marcas">Marcas</a>
+        <a class="text-gray-700 hover:text-gray-900 font-bold" href="#">Contato</a>
       </nav>
       <div class="flex items-center space-x-4">
-        <!-- Substituindo o botão por uma imagem -->
         <a href="#">
-            <img alt="Contribua" src="img/doar.png" class="h-12 w-auto"/>
-          </a> 
-          <i class="fas fa-user text-yellow-500 text-4xl"></i>
-
+          <img alt="Contribua" src="img/doar.png" class="h-12 w-auto"/>
+        </a>
+        <i class="fas fa-user text-yellow-500 text-4xl"></i>
       </div>
     </div>
-  </header>
-  
-  <body>
-    <div class="container">
-        <div class="number" id="bigNumber">0</div>
-        <div class="numbers">
-            <div class="number" id="number1">0</div>
-            <div class="number" id="number2">0</div>
-            <div class="number" id="number3">0</div>
-        </div>
+    <div class="relative">
+      <img src="img/img4.jpeg" alt="Imagem exemplo" class="w-full h-[650px] object-cover"/>
+      <div class="absolute top-0 left-0 w-full h-full flex justify-center items-center bg-black bg-opacity-50">
+        <p class="text-white text-6xl font-bold text-center"> Entre em Contato <br><span class="block text-6xl">Conosco</span></p>
+      </div>
+    </div>
+       <!-- Contêiner externo para centralizar o conteúdo -->
+    <div class="container-centralizado">
+      <div class="formulario-contato-container">
+          <h2 class="formulario-contato-titulo">Entre em Contato</h2>
+          <form action="processar_mensagem.php" method="POST" class="formulario-contato-form">
+              <div class="formulario-contato-input-group">
+                  <label for="nome" class="formulario-contato-label">Nome:</label>
+                  <input type="text" id="nome" name="nome" class="formulario-contato-input" required>
+              </div>
+
+              <div class="formulario-contato-input-group">
+                  <label for="email" class="formulario-contato-label">E-mail:</label>
+                  <input type="email" id="email" name="email" class="formulario-contato-input" required>
+              </div>
+
+              <div class="formulario-contato-input-group">
+                  <label for="assunto" class="formulario-contato-label">Assunto:</label>
+                  <input type="text" id="assunto" name="assunto" class="formulario-contato-input" required>
+              </div>
+
+              <div class="formulario-contato-input-group">
+                  <label for="mensagem" class="formulario-contato-label">Mensagem:</label>
+                  <textarea id="mensagem" name="mensagem" rows="5" class="formulario-contato-textarea" required></textarea>
+              </div>
+
+              <button type="submit" class="formulario-contato-botao">Enviar Mensagem</button>
+          </form>
+      </div>
+  </div>
     </div>
 
+
+
+
+  </header>
 
 </body>
 </html>
