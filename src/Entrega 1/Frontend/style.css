@@ -6,7 +6,7 @@
 body {
 font-family: "Poppins", sans-serif;
   background-color: #ffffff;
-  color: #333;
+  color: #000000;
   margin: 0;
   padding: 0;
   width: 100%;
@@ -769,8 +769,83 @@ h1 {
   transition: background-color 0.3s, color 0.3s; 
 }
 
-/* Efeito ao passar o mouse nos botões */
+
 .botoes .botao:hover {
   background-color: rgb(0, 255, 238); 
   color: #1e3c72; 
+}
+
+
+.container-centralizado {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Ocupa toda a altura da tela */
+  padding: 0 20px; /* Para garantir que o formulário não encoste nas bordas em telas pequenas */
+}
+
+.formulario-contato-container {
+  background-color: #fff;
+  padding: 30px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  width: 100%; 
+  max-width: 100%; 
+  min-height: 400px; 
+  display: flex;
+  flex-direction: column;
+  justify-content: center; 
+  box-sizing: border-box;
+}
+
+.formulario-contato-titulo {
+  text-align: center;
+  margin-bottom: 20px;
+  font-size: 24px;
+  color: #333;
+}
+
+.formulario-contato-input-group {
+  margin-bottom: 15px;
+}
+
+.formulario-contato-label {
+  display: block;
+  font-size: 14px;
+  color: #555;
+  margin-bottom: 5px;
+}
+
+.formulario-contato-input, .formulario-contato-textarea {
+  justify-content: center;
+  align-items: center;
+  width: 40%; 
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  box-sizing: border-box; /* Garantir que o padding não ultrapasse o limite da largura */
+}
+
+.formulario-contato-textarea {
+  resize: vertical;
+}
+
+.formulario-contato-botao {
+ 
+  width: 15%;
+  padding: 10px;
+  background-color: #FF254A;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.formulario-contato-botao:hover {
+  background-color: #15e4ff;
+
+
 }
