@@ -1,4 +1,4 @@
- /* Importação da fonte ABeeZee */
+/* Importação da fonte ABeeZee */
 /* Importação da fonte ABeeZee */
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 
@@ -71,8 +71,8 @@ font-family: "Poppins", sans-serif;
 
 .ic-sobre-texto {
     font-family: 'Poppins', sans-serif;
-    font-size: 19px; /* Ajuste o tamanho da fonte conforme necessário */
-    line-height: 1.5; /* Para melhorar a legibilidade, se necessário */
+    font-size: 19px; 
+    line-height: 1.5; 
 }
 
   
@@ -208,41 +208,41 @@ font-family: "Poppins", sans-serif;
 
 /* Cores diferentes para cada card */
 .card-1 {
-  background-color: #a4fffddf; /* Azul */
+  background-color: #a4fffddf;
 }
 
 .card-2 {
-  background-color: #fff59dfc; /* Vermelho */
+  background-color: #fff59dfc;
 }
 
 .card-3 {
-  background-color: #ffbebe; /* Verde */
+  background-color: #ffbebe; 
 }
 
 .card-4 {
-  background-color: #bbf0b8; /* Laranja */
-  width: 100%; /* Card maior */
-  max-width: 600px; /* Largura máxima */
-  margin-top: 40px; /* Espaçamento acima */
+  background-color: #bbf0b8; 
+  width: 100%; 
+  max-width: 600px; 
+  margin-top: 40px; 
 }
 
 /* Estilos específicos para a galeria */
 .galeria-unica {
     display: flex;
-    flex-wrap: wrap; /* Permite que as imagens quebrem para a próxima linha */
-    gap: 20px; /* Espaçamento entre as imagens */
+    flex-wrap: wrap; 
+    gap: 20px; 
     padding: 20px;
     background-color: #ffffff;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    width: 100%; /* Ocupa 100% da largura disponível */
-    margin: 0; /* Remove a margem automática que centralizava a galeria */
+    width: 100%; 
+    margin: 0; 
   }
   
   /* Estilo das imagens na galeria */
   .galeria-imagem-unica {
-    width: calc(33.33% - 14px); /* 3 imagens por linha com espaçamento */
-    height: auto; /* Altura automática para manter a proporção */
+    width: calc(33.33% - 14px); 
+    height: auto; 
     object-fit: cover;
     border-radius: 10px;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
@@ -251,7 +251,7 @@ font-family: "Poppins", sans-serif;
   
   /* Efeito de hover nas imagens */
   .galeria-imagem-unica:hover {
-    transform: scale(1.05); /* Aumenta levemente o tamanho da imagem */
+    transform: scale(1.05); 
     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* Adiciona sombra */
     z-index: 10; /* Garante que a imagem aumentada fique por cima das outras */
   }
@@ -273,7 +273,7 @@ font-family: "Poppins", sans-serif;
 .impact-section {
   max-width: 900px;
   width: 50%;
-  position: relative; /* Permite posicionar elementos filhos de forma absoluta */
+  position: relative; 
 }
 
 .impact-highlight {
@@ -283,12 +283,12 @@ font-family: "Poppins", sans-serif;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  padding: 0px 70px; /* Diminui o padding para um layout mais compacto */
+  padding: 0px 70px; 
   border-radius: 10x;
-  min-width: 250px; /* Aumenta a largura da imagem */
-  min-height: 150px; /* Aumenta a altura da imagem */
-  position: relative; /* Permite ajustar o posicionamento */
-  z-index: 0; /* Imagem atrás */
+  min-width: 250px; 
+  min-height: 150px; 
+  position: relative; 
+  z-index: 0; 
 }
 
 /* Ajustando o número grande para ficar sobre a imagem */
@@ -983,3 +983,4 @@ footer {
 .formulario-inscricao button:hover {
     background-color: #FF254A;
 }
+
