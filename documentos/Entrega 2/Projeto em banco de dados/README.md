@@ -1,55 +1,27 @@
-# Sistema de Agendamento de Banhos em Pet Shop
+# 📊 Descrição das Tabelas Implementadas
 
-Sistema web completo para cadastro de usuários, login seguro e agendamento de banhos em petshop, com upload de imagens dos pets.
+No banco de dados `instituto_criativo`, foram criadas duas tabelas principais: `usuarios` e `eventos`.
 
-## Tecnologias utilizadas
+## 🔹 1. Tabela `usuarios`
 
-- Frontend: HTML5, CSS3, JavaScript
-- Backend: Node.js, Express
-- Banco de dados: MySQL
-- Autenticação: JWT
-- Criptografia: Bcrypt
-- Upload de imagens: Multer
+Armazena os dados dos usuários do sistema. Estrutura:
 
-## Como rodar o sistema
+| Campo | Tipo | Descrição |
+|-------|------|-----------|
+| `id` | INT | Chave primária, com AUTO_INCREMENT. Identifica de forma única cada usuário. |
+| `nome` | VARCHAR(100) | Nome completo do usuário. Campo obrigatório (NOT NULL). |
+| `email` | VARCHAR(100) | E-mail do usuário. Campo obrigatório e com restrição UNIQUE, garantindo que não haja duplicação de e-mails. |
+| `senha` | VARCHAR(255) | Senha do usuário (armazenada de forma criptografada). Campo obrigatório. |
 
-1. **Pré-requisitos**
-   - Node.js instalado
-   - MySQL instalado e rodando
-   - Git instalado (opcional)
+## 🔹 2. Tabela `eventos`
 
-2. **Configuração do banco de dados**
-   - Crie um banco de dados MySQL chamado `petshop`
-   - Importe o arquivo `banco_petshop.sql` para criar as tabelas necessárias
+Armazena informações sobre os eventos criados no sistema. Estrutura:
 
-3. **Configuração do backend**
-   - Navegue até a pasta `backend`
-   - Crie um arquivo `.env` com as configurações do banco de dados (veja o exemplo abaixo)
-   - Instale as dependências: `npm install`
-   - Inicie o servidor: `node server.js`
-
-4. **Configuração do frontend**
-   - Abra os arquivos HTML diretamente no navegador ou use um servidor local como o Live Server do VSCode
-   - Certifique-se de que o backend está rodando na porta 5000 (ou ajuste as URLs no frontend)
-
-## Exemplo de arquivo .env
-DB_HOST=localhost
-DB_USER=root
-DB_PASSWORD=yourpassword
-DB_NAME=petshop
-JWT_SECRET=yourjwtsecretkey
-PORT=5000
-
-## Funcionalidades implementadas
-
-- Cadastro de usuários com email e senha criptografada
-- Login com JWT
-- CRUD completo de agendamentos de banho
-- Upload de imagens dos pets
-- Visualização de agendamentos
-- Mostrar/esconder senha nos formulários (ponto extra)
-- Preview da imagem antes do upload (ponto extra)
-
-## Screenshots
-
-[Inclua screenshots ou descrições das telas aqui]
+| Campo | Tipo | Descrição |
+|-------|------|-----------|
+| `id` | INT | Chave primária com AUTO_INCREMENT. |
+| `titulo` | VARCHAR(255) | Título do evento. Campo obrigatório. |
+| `descricao` | TEXT | Descrição detalhada do evento. Campo obrigatório. |
+| `imagem` | VARCHAR(255) | Caminho ou nome do arquivo de imagem relacionado ao evento. Campo obrigatório. |
+| `usuario_id` | INT | ID do usuário que criou o evento. Campo obrigatório. Chave estrangeira que referencia `usuarios(id)`, garantindo a integridade referencial. |
+| `data_criacao` | TIMESTAMP | Armazena a data e hora de criação do evento. Valor padrão: CURRENT_TIMESTAMP. |
