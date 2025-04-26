@@ -1,0 +1,447 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <title>Instituto Criativo</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" rel="stylesheet"/>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&amp;display=swap" rel="stylesheet"/>
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Magra&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=ABeeZee&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;700&display=swap" rel="stylesheet">
+
+
+</head>
+<body class="font-roboto">
+  <!-- Header -->
+  <header class="bg-white shadow-md">
+    <div class="container mx-auto flex justify-between items-center py-4 px-6">
+      <div class="flex items-center">
+        <img alt="Logo do Instituto Criativo" class="mr-2" height="40" src="img/logo.png" width="40"/>
+        <span class="text-xl font-bold">
+          INSTITUTO CRIATIVO
+        </span>
+      </div>
+      <nav class="hidden md:flex space-x-4">
+        <a class="text-gray-700 hover:text-gray-900 font-bold" href="#sobre">Sobre</a>
+        <a class="text-gray-700 hover:text-gray-900 font-bold" href="#segmento">Segmento</a>
+        <a class="text-gray-700 hover:text-gray-900 font-bold" href="#impacto">Impacto Social</a>
+        <a class="text-gray-700 hover:text-gray-900 font-bold" href="#colaborador">Colaborador</a>
+        <a class="text-gray-700 hover:text-gray-900 font-bold" href="#marcas">Marcas</a>
+        <a class="text-gray-700 hover:text-gray-900 font-bold" href="index.html">Contato</a>
+      </nav>
+      <div class="flex items-center space-x-4">
+        <a href="#">
+          <img alt="Contribua" src="img/doar.png" class="h-12 w-auto"/>
+        </a>
+        <a href="Cadastro.html" id="botao-usuario" class="inline-block p-2 rounded hover:bg-yellow-100 transition">
+          <i class="fas fa-user text-yellow-500 text-4xl"></i>
+      </a>
+      
+      </div>
+    </div>
+  </header>
+
+<!-- Imagem com texto sobre ela -->
+<div class="relative">
+    <img src="img/fundo.jpeg" alt="Imagem exemplo" class="w-full h-[650px] object-cover"/>
+    <div class="absolute top-0 left-0 w-full h-full flex justify-center items-center bg-black bg-opacity-50">
+      <p class="text-white text-6xl font-bold text-center">Inspirando mudanças com <br><span class="block text-6xl">criatividade!</span></p>
+    </div>
+  
+    <!-- Botão "Quero ser Criativo" -->
+    <div class="absolute bottom-20 left-0 right-0 flex justify-center">
+      <a href="#" class="seja-criativo-btn">Quero ser Criativo</a>
+    </div>
+  </div>
+  <br>
+  <br>
+  <br>
+  <br>
+  <div class="container-geral-sobre">
+    <div class="ic-sobre-container" id="sobre">
+      <div class="ic-sobre-titulo">Sobre</div>
+      <div class="ic-sobre-texto">
+          O Instituto Criativo é uma ONG que nasceu para transformar a vida das pessoas por meio da educação criativa e inovadora, 
+          empoderando-as de conhecimento de qualidade e diferenciado que são aplicados nos estudos, negócios e na própria vida 
+          contribuindo com a evolução da sociedade.
+      </div>
+  </div>
+  </div>
+<br>
+<br>
+<section class="valores-section">
+  <div class="valores-container">
+    <!-- Missão -->
+    <div class="valores-card">
+      <img src="img/missao.png" alt="Missão" class="valores-img">
+      <h2 class="valores-titulo">Missão</h2>
+      <p class="valores-descricao">
+        Desenvolver e compartilhar projetos de educação criativa e inovadora que transformam a sociedade.
+      </p>
+    </div>
+
+    <!-- Visão -->
+    <div class="valores-card">
+      <img src="img/visao.png" alt="Visão" class="valores-img">
+      <h2 class="valores-titulo">Visão</h2>
+      <p class="valores-descricao">
+        Ser referência na educação, empreendedorismo e eventos criativos por meio do aprendizado inovador.
+      </p>
+    </div>
+
+    <!-- Valores -->
+    <div class="valores-card">
+      <img src="img/valores.png" alt="Valores" class="valores-img">
+      <h2 class="valores-titulo">Valores</h2>
+      <p class="valores-descricao">
+        Sustentabilidade, qualidade, criatividade e inovação, ética e respeito, colaboração, e valorização do conhecimento.
+      </p>
+    </div>
+  </div>
+</section>
+
+      <!-- Seção de Segmentos -->
+      <section class="segmentos-section" id="segmento">
+    <h1 class="segmentos-titulo">Conheça nossos segmentos</h1>
+    <br>
+    <div class="segmentos-container">
+      <!-- Card 1: Aprendizado -->
+      <div class="segmento-card card-1">
+        <div class="segmento-imagem">
+          <img src="img/seg1.png" alt="Aprendizado">
+        </div>
+        <h2 class="segmento-nome">Aprendizado</h2>
+        <p class="segmento-idade">5 a 24 anos</p>
+        <p class="segmento-descricao">
+          Projeto de incentivo ao raciocínio lógico de crianças para desenvolver seu pensamento crítico, empreendedorismo, matemática e computação.
+        </p>
+      </div>
+
+      <!-- Card 2: Primeiro Emprego -->
+      <div class="segmento-card card-2">
+        <div class="segmento-imagem">
+          <img src="img/seg2.png" alt="Primeiro Emprego">
+        </div>
+        <h2 class="segmento-nome">Primeiro emprego</h2>
+        <p class="segmento-idade">16 a 20 anos</p>
+        <p class="segmento-descricao">
+          Jovens em busca do primeiro emprego, para fornecer competências e habilidades, desenvolvimento pessoal e conhecimentos necessários para ingressar no mercado de trabalho.
+        </p>
+      </div>
+
+      <!-- Card 3: Recolocação -->
+      <div class="segmento-card card-3">
+        <div class="segmento-imagem">
+          <img src="img/seg3.png" alt="Recolocação">
+        </div>
+        <h2 class="segmento-nome">Recolocação</h2>
+        <p class="segmento-idade">24 a 60 anos</p>
+        <p class="segmento-descricao">
+          Projeto de incentivo ao raciocínio lógico de crianças para desenvolver seu pensamento crítico, empreendedorismo, matemática e computação.
+        </p>
+      </div>
+
+      <!-- Card 4: Bem-estar (card maior) -->
+      <div class="segmento-card card-4">
+        <div class="segmento-imagem">
+          <img src="img/seg4.png" alt="Bem-estar">
+        </div>
+        <h2 class="segmento-nome">Bem-estar</h2>
+        <p class="segmento-idade">+ 50 anos</p>
+        <p class="segmento-descricao">
+          Promovendo assistência para desenvolvimento social, por meio de atividades de conversação, terapias, doação de alimentos e palestras de reeducação da mente.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <div class="galeria-unica">
+    <img src="img/img1.jpg" alt="Imagem 1" class="galeria-imagem-unica">
+    <img src="img/img2.jpg" alt="Imagem 2" class="galeria-imagem-unica">
+    <img src="img/img3.jpeg" alt="Imagem 3" class="galeria-imagem-unica">
+    <img src="img/img4.jpeg" alt="Imagem 4" class="galeria-imagem-unica">
+    <img src="img/img5.jpeg" alt="Imagem 5" class="galeria-imagem-unica">
+    <img src="img/img6.jpeg" alt="Imagem 6" class="galeria-imagem-unica">
+    <img src="img/img7.jpeg" alt="Imagem 7" class="galeria-imagem-unica">
+    <img src="img/img8.jpeg" alt="Imagem 8" class="galeria-imagem-unica">
+    <img src="img/img9.jpeg" alt="Imagem 9" class="galeria-imagem-unica">
+  </div>
+  
+  
+  <div class="impact-wrapper" id="impacto">
+    <div class="impact-section">
+        <div class="impact-highlight">
+            <span class="impact-number">0</span>
+            <br>
+            <br>
+            <br>
+            <br>
+            <div class="impact-text">Pessoas alcançadas</div>
+        </div>
+
+        <div class="impact-grid">
+            <div class="impact-item">
+                <span class="impact-number">0</span><span class="impact-plus">+</span>
+                <div class="impact-text">Educadores e Pais desenvolvidos</div>
+            </div>
+            <div class="impact-item">
+                <span class="impact-number">0</span><span class="impact-plus">+</span>
+                <div class="impact-text">Estudantes impactados</div>
+            </div>
+            <div class="impact-item">
+                <span class="impact-number">0</span><span class="impact-plus">+</span>
+                <div class="impact-text">Projetos criativos</div>
+            </div>
+        </div>
+    </div>
+</div>
+<br>
+<center>
+  <div class="content">
+    <h1 class="headline">A CRIATIVIDADE MUDA PESSOAS</h1>
+   
+          O Instituto Criativo transforma vidas por meio da criatividade, oferecendo programas de aprendizado e inclusão. Ao lado, veja como estamos impactando a sociedade e como você pode contribuir para essa mudança!
+      </p>
+  </div>
+</center>
+<br>
+
+
+<div class="container">
+  <h1 class="headline">Parceiros e Voluntários</h1>
+  <p class="subtitle">Quem nos ajuda nessa incrível jornada</p>
+
+  <!-- Voluntário 1 (Imagem à esquerda) -->
+  <div class="voluntario" id="colaborador">
+      <div class="imagem-placeholder"></div> <!-- Espaço para a imagem -->
+      <div class="info">
+          <h2>Lucy Mari</h2>
+          <p class="cargo">Presidente e fundadora</p>
+          <p class="descricao">
+            Lucy Mari é empresária, educadora e psicoterapeuta, com formação em Matemática e doutorado em Engenharia de Computação pela USP. Atua na interseção entre educação, tecnologia e psicologia, liderando projetos inovadores. Sua trajetória é focada em transformar vidas por meio da criatividade.
+          </p>
+      </div>
+  </div>
+
+  <!-- Voluntário 2 (Imagem à direita) -->
+  <div class="voluntario reverse">
+      <div class="imagem-placeholder"></div> <!-- Espaço para a imagem -->
+      <div class="info">
+          <h2>Rodrigo Assirati</h2>
+          <p class="cargo">Vice-presidente</p>
+          <p class="descricao">
+            Rodrigo Assirati é formado em Ciência da Computação pela USP e atua como coordenador e professor universitário desde 2012. Especialista em educação pela Microsoft, ele lidera projetos de transformação digital e capacitação de professores. Além disso, é consultor de tecnologia e empreendedor, com foco em soluções inovadoras para a educação..
+          </p>
+      </div>
+  </div>
+</div>
+
+
+<div class="carousel">
+  <div class="carousel-container">
+      <!-- Itens originais -->
+      <div class="carousel-item">
+          <img src="img/dayse.jpeg" alt="Deyse Santana">
+          <p>Deyse Santana<br>Analista Financeira</p>
+      </div>
+      <div class="carousel-item">
+          <img src="img/joao_querlon.jpg" alt="João Querton">
+          <p>João Querton<br>Conselheiro fiscal</p>
+      </div>
+      <div class="carousel-item">
+          <img src="img/felipe_almeida.jpg" alt="Felipe Almeida">
+          <p>Felipe Almeida<br>Designer</p>
+      </div>
+      <div class="carousel-item">
+          <img src="img/joaquim_roberto.jpg" alt="Joaquim Roberto">
+          <p>Joaquim Roberto<br>Conselheiro</p>
+      </div>
+      <div class="carousel-item">
+          <img src="img/carlos_albertini.jpg" alt="Carlos E. Albertini">
+          <p>Carlos E. Albertini<br>Psicoterapeuta</p>
+      </div>
+      <div class="carousel-item">
+          <img src="img/marcos_brito.jpg" alt="Marcos Brito">
+          <p>Marcos Brito<br>conteúdo</p>
+      </div>
+
+      <!-- Duplicação dos itens para criar o efeito infinito -->
+      <div class="carousel-item">
+          <img src="img/dayse.jpeg" alt="Deyse Santana">
+          <p>Deyse Santana<br>Analista Financeira</p>
+      </div>
+      <div class="carousel-item">
+          <img src="img/joao_querlon.jpg" alt="João Querton">
+          <p>João Querton<br>Conselheiro fiscal</p>
+      </div>
+      <div class="carousel-item">
+          <img src="img/felipe_almeida.jpg" alt="Felipe Almeida">
+          <p>Felipe Almeida<br>Designer</p>
+      </div>
+      <div class="carousel-item">
+          <img src="img/joaquim_roberto.jpg" alt="Joaquim Roberto">
+          <p>Joaquim Roberto<br>Conselheiro</p>
+      </div>
+      <div class="carousel-item">
+          <img src="img/carlos_albertini.jpg" alt="Carlos E. Albertini">
+          <p>Carlos E. Albertini<br>Psicoterapeuta</p>
+      </div>
+      <div class="carousel-item">
+          <img src="img/marcos_brito.jpg" alt="Marcos Brito">
+          <p>Marcos Brito<br>conteúdo</p>
+      </div>
+  </div>
+  <button class="carousel-button prev">&#10094;</button>
+  <button class="carousel-button next">&#10095;</button>
+</div>
+
+<div class="image-grid">
+        <!-- 8 imagens na parte de cima -->
+        <div class="image-item"><img src="img/1.jpg" alt="Imagem 1"></div>
+        <div class="image-item"><img src="img/2.jpg" alt="Imagem 2"></div>
+        <div class="image-item"><img src="img/3.jpg" alt="Imagem 3"></div>
+        <div class="image-item"><img src="img/4.jpg" alt="Imagem 4"></div>
+        <div class="image-item"><img src="img/5.jpg" alt="Imagem 5"></div>
+        <div class="image-item"><img src="img/6.jpg" alt="Imagem 6"></div>
+        <div class="image-item"><img src="img/7.jpg" alt="Imagem 7"></div>
+        <div class="image-item"><img src="img/8.jpg" alt="Imagem 8"></div>
+
+        <!-- 8 imagens na parte de baixo -->
+        <div class="image-item"><img src="img/9.jpg" alt="Imagem 9"></div>
+        <div class="image-item"><img src="img/10.jpg" alt="Imagem 10"></div>
+        <div class="image-item"><img src="img/11.jpg" alt="Imagem 11"></div>
+        <div class="image-item"><img src="img/12.jpg" alt="Imagem 12"></div>
+        <div class="image-item"><img src="img/13.jpg" alt="Imagem 13"></div>
+        <div class="image-item"><img src="img/14.jpg" alt="Imagem 14"></div>
+        <div class="image-item"><img src="img/15.jpg" alt="Imagem 15"></div>
+        <div class="image-item"><img src="img/16.jpg" alt="Imagem 16"></div>
+    </div>
+    <br>
+ <br>
+   
+ <br>
+ <br>
+ <div class="container" id="marcas">
+  <h1 class="headline">APOIADORES</h1>
+  </div>
+
+  <div class="marcas-carousel">
+    <div class="marcas-carousel-container">
+        <!-- Marcas -->
+        <div class="marcas-carousel-item"><img src="img/marca1.jpg" alt="Marca 1"></div>
+        <div class="marcas-carousel-item"><img src="img/marca3.png" alt="Marca 3"></div>
+        <div class="marcas-carousel-item"><img src="img/marca4.jpg" alt="Marca 4"></div>
+        <div class="marcas-carousel-item"><img src="img/marca5.jpg" alt="Marca 5"></div>
+        <div class="marcas-carousel-item"><img src="img/marca6.jpg" alt="Marca 6"></div>
+        <div class="marcas-carousel-item"><img src="img/marca7.png" alt="Marca 7"></div>
+        <div class="marcas-carousel-item"><img src="img/marca8.jpg" alt="Marca 8"></div>
+        <div class="marcas-carousel-item"><img src="img/marca9.jpg" alt="Marca 10"></div>
+    </div>  
+    </div>
+  
+    <div class="image-containerbanner">
+      <div class="header-juntese">
+        <h4>Junte-se ao time de embaixadores!</h4>
+      </div>
+      <div class="junte-se">
+        <div class="junte-se-esquerdo">
+          <div class="junte-se-titulo">
+            <h3>Junte-se ao Instituto Criativo como embaixador(a) e tenha uma página exclusiva para captar doações aos nossos projetos. É simples e gratuito!</h3>
+          </div>
+         <div class="junte-se-imagens">
+          <img src="img/formInsc.png" height="100px" width="100px">
+          <img src="img/setafInsc.png" height="100px" width="100px">
+          <img src="img/preenchaForm.png" height="100px" width="100px">
+         </div> 
+        </div>
+        <div class="junte-se-direito">
+          <div class="junte-se-img-formulario">
+            <img src="img/embaixador.png">
+          </div>
+        </div>
+      </div>
+    
+</div>
+
+  </div>
+</div> 
+
+<section class="inscricao">
+  <div class="container">
+      <h2>Inscreva-se na nossa página e receba inspirações criativas para transformar vidas e a sociedade!</h2>
+      <p>Seja o primeiro a descobrir tendências, inspirações e oportunidades especiais enquanto trazemos o impacto da criatividade diretamente para você!</p>
+      <form class="formulario-inscricao">
+          <input type="email" placeholder="Digite seu endereço de e-mail" required>
+          <button type="submit">Inscreva-se</button>
+      </form>
+  </div>
+</section>
+
+
+
+<!-- Footer -->
+<footer>
+  <!-- Container principal -->
+  <div class="footer-container">
+      <!-- Logo, texto e frase -->
+      <div class="logo-texto-frase">
+          <div class="logo-texto">
+              <div class="logo">
+                  <img src="img/logo.png" alt="Logo Instituto Criativo"> 
+              </div>
+              <div class="texto">
+                <br>
+                  INSTITUTO CRIATIVO <!-- Texto ao lado do logo -->
+              </div>
+          </div>
+          <div class="frase">
+              Transformamos vidas com inovação e oportunidades 
+              <br>porque a criatividade é a chave para mudar o mundo!
+          </div>
+      </div>
+
+      <!-- Links e contato -->
+      <div class="links-contato">
+          <!-- Links rápidos -->
+          <div class="links">
+              <h3>Seja Criativo</h3>
+              <ul>
+                  <li><a href="#">Sobre-nos</a></li>
+                  <li><a href="#">Patrocinadores</a></li>
+                  <li><a href="#">Equipe</a></li>
+                  <li><a href="#">Doação</a></li>
+              </ul>
+          </div>
+
+          <!-- Informações de contato -->
+          <div class="contato">
+              <h3>Info Contato</h3>
+              <p>Email: <a href="mailto:info@vivadecor.com">info@vivadecor.com</a></p>
+              <p>Endereço: Instituto Criativo, CA 90210, Estados Unidos</p>
+          </div>
+      </div>
+
+      <!-- Mapa -->
+      <div class="mapa">
+          <iframe
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3304.853676164469!2d-118.403072684784!3d34.06244452364271!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2bcbb8b8a9c9f%3A0x3f8a3b9c3b9c3b9c!2sInstituto%20Criativo!5e0!3m2!1spt-BR!2sbr!4v1629999999999!5m2!1spt-BR!2sbr"
+              allowfullscreen=""
+              loading="lazy">
+          </iframe>
+      </div>
+  </div>
+
+  <!-- Parte inferior do footer -->
+  <div class="footer-bottom">
+      <p>Copyright &copy; 2025 Instituto Criativo</p>
+  </div>
+</footer>
+
+  
+
+<script src="animação.js"></script>
+</body>
+</html>
