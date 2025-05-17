@@ -1,78 +1,91 @@
 # FECAP - Fundação de Comércio Álvares Penteado
- 
- 
- </p>
- 
 
- 
- ## Instituto Criativo
- 
- ## Integrantes: <a href=https://www.linkedin.com/in/estherolvr/>Esther Oliveira Costa</a>, <a href=https://www.linkedin.com/in/higor-fonseca-santos/>Higor Fonseca </a>, <a href=https://www.linkedin.com/in/joaovictordefaria/>João Victor de Faria</a>, <a href="https://www.linkedin.com/in/mellina-de-p%C3%A1dua-618081227/">Mellina de Pádua
- 
- 
- ## Professores Orientadores:  <a href="https://www.linkedin.com/in/cristina-machado-corr%C3%AAa-leite-630309160/">Cristina Machado Corrêa Leite</a>, <a href="https://www.linkedin.com/in/dolemes/">David De Oliveira Lemes</a>, <a href="https://www.linkedin.com/in/francisco-escobar/">Francisco de Souza Escobar</a>, <a href="https://www.linkedin.com/in/katia-bossi/">Katia Milani Lara Bossi</a>, <a href="https://www.linkedin.com/in/leonardo-fabris-lugoboni-a3369416/">Leonardo Fabris Lugoboni</a>
- 
- <p align="center">
- <a href= "https://www.fecap.br/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0"></a>
- 
- ## Descrição
- 
- 
- Este projeto tem como objetivo o desenvolvimento de uma nova versão do site da ONG Instituto Criativo, trazendo melhorias significativas na gestão e atualização de conteúdos. A principal inovação será a implementação de um dashboard administrativo, acessível exclusivamente pelo Administrador Master, que permitirá maior autonomia na administração do site sem necessidade de conhecimentos em programação.
+<p align="center">
+  <a href="https://www.fecap.br/">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0">
+  </a>
+</p>
 
-## Acesso à Área de Colaborador
+## Instituto Criativo
 
-Para acessar a área de colaboradores, entre na seção **Área do Colaborador** no site. Esta área é protegida por senha.
+## 👥 Integrantes
+- [Esther Oliveira Costa](https://www.linkedin.com/in/estherolvr/)
+- [Higor Fonseca](https://www.linkedin.com/in/higor-fonseca-santos/)
+- [João Victor de Faria](https://www.linkedin.com/in/joaovictordefaria/)
+- [Mellina de Pádua](https://www.linkedin.com/in/mellina-de-p%C3%A1dua-618081227/)
 
-- **Senha para acesso:** `482590`
-
-### Tipos de usuários e cadastro
-
-- **Administrador Master (ADM Master):**  
-  - Apenas **um único ADM Master** pode ser cadastrado.  
-  - Este perfil tem acesso total ao dashboard administrativo e controle do sistema.
-
-- **Colaboradores:**  
-  - Podem existir **vários colaboradores cadastrados**.  
-  - Cada colaborador pode acessar funções específicas conforme sua permissão.
-
-Para testar a experiência completa e entender as diferenças de acesso e funcionalidades, cadastre ambos os tipos de usuário (ADM Master e colaboradores).
+## 👨‍🏫 Professores Orientadores
+- [Cristina Machado Corrêa Leite](https://www.linkedin.com/in/cristina-machado-corr%C3%AAa-leite-630309160/)
+- [David De Oliveira Lemes](https://www.linkedin.com/in/dolemes/)
+- [Francisco de Souza Escobar](https://www.linkedin.com/in/francisco-escobar/)
+- [Katia Milani Lara Bossi](https://www.linkedin.com/in/katia-bossi/)
+- [Leonardo Fabris Lugoboni](https://www.linkedin.com/in/leonardo-fabris-lugoboni-a3369416/)
 
 ---
 
-## Chat Interno
+# 🔐 ACESSO AO SISTEMA
 
-O sistema possui um **chat interno** que permite a troca de mensagens entre colaboradores. Este canal facilita a comunicação e alinhamento entre a equipe.
+## 🚪 Acesso à Área Administrativa
 
-Para validar o funcionamento do chat, recomendamos cadastrar vários colaboradores e trocar mensagens entre eles.
+### Credenciais de Acesso
+- **URL de Acesso:** [https://institutocriativo.com/admin](https://institutocriativo.com/admin)
+- **Senha padrão para colaboradores:** `482590`
 
+### 👑 Administrador Master (ADM Master)
+- **Privilégios:** Acesso total ao sistema
+- **Cadastro:** Apenas um ADM Master pode ser cadastrado
+- **Funcionalidades exclusivas:**
+  - Gerenciamento completo do dashboard
+  - Cadastro de novos colaboradores
+  - Controle de permissões
 
- 
- # Principais Funcionalidades
- 1. Dashboard Administrativo
- 
- Acesso restrito ao Administrador Master.
- Interface intuitiva para facilitar a gestão do site.
- Monitoramento de métricas e atualizações de projetos da ONG.
- 
- 2. Sistema de Atualização Automatizado
- 
- O Administrador Master poderá cadastrar novos eventos e projetos preenchendo um formulário.
- As informações serão publicadas automaticamente no site, sem necessidade de intervenção manual na programação.
- 
- 3. Chat Interno
- 
- Canal de comunicação entre administradores e equipe para facilitar a troca de informações e alinhamento sobre os projetos.
- 
- 4. Melhorias na Experiência do Usuário
- 
- Design responsivo e acessível.
- Navegação otimizada para facilitar a busca por informações sobre a ONG e seus eventos.
- 
- 5. Objetivo
- 
- O projeto visa proporcionar maior eficiência e independência na gestão do site da ONG, garantindo que as atualizações sejam feitas de forma rápida e acessível, sem demandar conhecimento técnico em programação.
- 
+### 👥 Colaboradores
+- **Privilégios:** Acesso limitado conforme permissões
+- **Cadastro:** Múltiplos colaboradores podem ser cadastrados
+- **Funcionalidades:**
+  - Acesso ao chat interno
+  - Visualização de projetos conforme permissão
+
+## 💬 Chat Interno
+- **Como testar:**
+  1. Cadastre pelo menos dois colaboradores
+  2. Acesse o chat pela área administrativa
+  3. Troque mensagens entre os usuários cadastrados
+
+---
+
+## 📝 Descrição do Projeto
+Este projeto visa o desenvolvimento de uma nova versão do site da ONG Instituto Criativo, com foco em:
+
+- Implementação de um **dashboard administrativo** completo
+- Autonomia na gestão de conteúdo **sem necessidade de conhecimentos técnicos**
+- Sistema de atualização automatizado de eventos e projetos
+- Comunicação interna via chat entre colaboradores
+
+---
+
+## ✨ Principais Funcionalidades
+| Funcionalidade | Descrição |
+|----------------|-----------|
+| **Dashboard Administrativo** | Interface intuitiva para gestão completa do site |
+| **Atualização Automatizada** | Publicação de conteúdo via formulários simplificados |
+| **Chat Interno** | Comunicação em tempo real entre a equipe |
+| **Design Responsivo** | Adaptável a todos os dispositivos |
+| **Controle de Acessos** | Hierarquia de permissões diferenciadas |
+
+---
+
+## 🛠 Tecnologias Utilizadas
+- **Frontend:** React + Vite
+- **Estilização:** Tailwind CSS
+- **Backend:** .NET
+- **Banco de Dados:** MySQL
+- **Gerenciamento de Estado:** Context API
+- **Gráficos:** Recharts
+- **Ferramentas:** ESLint, Prettier, PostCSS
+
+---
+
  # 🚀 Tecnologias Utilizadas
  Este projeto foi desenvolvido utilizando as seguintes tecnologias:
  
@@ -84,7 +97,8 @@ Para validar o funcionamento do chat, recomendamos cadastrar vários colaborador
  📊 Gráficos e Visualizações: Recharts<br>
  🔧 Outras Ferramentas: ESLint, Prettier, PostCSS<br>
  
- ## 🛠 Estrutura de pastas
+
+## 📂 Estrutura de Pastas
  
  -Raiz<br>
  |<br>
