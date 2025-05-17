@@ -106,8 +106,4 @@ Este projeto visa o desenvolvimento de uma nova versão do site da ONG Instituto
  
  ## 🎓 Referências
  
- Aqui estão as referências usadas no projeto.
- 
- 1. <https://github.com/iuricode/readme-template>
- 2. <https://github.com/gabrieldejesus/readme-model>
- 3. <https://chooser-beta.creativecommons.org/>
+**ONG Instituto Criativo**:
