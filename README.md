@@ -3,9 +3,9 @@
  
  </p>
  
- # Nome do Projeto
+
  
- ## Nome do Grupo
+ ## Instituto Criativo
  
  ## Integrantes: <a href=https://www.linkedin.com/in/estherolvr/>Esther Oliveira Costa</a>, <a href=https://www.linkedin.com/in/higor-fonseca-santos/>Higor Fonseca </a>, <a href=https://www.linkedin.com/in/joaovictordefaria/>João Victor de Faria</a>, <a href="https://www.linkedin.com/in/mellina-de-p%C3%A1dua-618081227/">Mellina de Pádua
  
