@@ -8,19 +8,10 @@
 
 ## Instituto Criativo
 
-## 👥 Integrantes
-- [Esther Oliveira Costa](https://www.linkedin.com/in/estherolvr/)
-- [Higor Fonseca](https://www.linkedin.com/in/higor-fonseca-santos/)
-- [João Victor de Faria](https://www.linkedin.com/in/joaovictordefaria/)
-- [Mellina de Pádua](https://www.linkedin.com/in/mellina-de-p%C3%A1dua-618081227/)
-
-## 👨‍🏫 Professores Orientadores
-- [Cristina Machado Corrêa Leite](https://www.linkedin.com/in/cristina-machado-corr%C3%AAa-leite-630309160/)
-- [David De Oliveira Lemes](https://www.linkedin.com/in/dolemes/)
-- [Francisco de Souza Escobar](https://www.linkedin.com/in/francisco-escobar/)
-- [Katia Milani Lara Bossi](https://www.linkedin.com/in/katia-bossi/)
-- [Leonardo Fabris Lugoboni](https://www.linkedin.com/in/leonardo-fabris-lugoboni-a3369416/)
-
+ ## Integrantes: <a href=https://www.linkedin.com/in/estherolvr/>Esther Oliveira Costa</a>, <a href=https://www.linkedin.com/in/higor-fonseca-santos/>Higor Fonseca </a>, <a href=https://www.linkedin.com/in/joaovictordefaria/>João Victor de Faria</a>, <a href="https://www.linkedin.com/in/mellina-de-p%C3%A1dua-618081227/">Mellina de Pádua
+ 
+ 
+ ## Professores Orientadores:  <a href="https://www.linkedin.com/in/cristina-machado-corr%C3%AAa-leite-630309160/">Cristina Machado Corrêa Leite</a>, <a href="https://www.linkedin.com/in/dolemes/">David De Oliveira Lemes</a>, <a href="https://www.linkedin.com/in/francisco-escobar/">Francisco de Souza Escobar</a>, <a href="https://www.linkedin.com/in/katia-bossi/">Katia Milani Lara Bossi</a>, <a href="https://www.linkedin.com/in/leonardo-fabris-lugoboni-a3369416/">Leonardo Fabris Lugoboni</a>
 ---
 
 # 🔐 ACESSO AO SISTEMA- Senha `482590`
