@@ -85,7 +85,40 @@ Este projeto visa o desenvolvimento de uma nova versão do site da ONG Instituto
 
 ## 📂 Estrutura de Pastas
  
-
+📦 Raiz
+ ┣ 📂 documentos
+ ┃ ┣ 📂 Entrega 1
+ ┃ ┃ ┣ 📂 Calculo II
+ ┃ ┃ ┣ 📂 Projetos em Banco de Dados
+ ┃ ┃ ┣ 📂 Gestão Empresarial e Dinâmicas das Organizações
+ ┃ ┃ ┣ 📂 Desenvolvimento Web Full Stack
+ ┃ ┃ ┗ 📂 Projeto Interdisciplinar: Programação Web
+ ┃ ┣ 📂 Entrega 2
+ ┃ ┃ ┣ 📂 Calculo II
+ ┃ ┃ ┣ 📂 Projetos em Banco de Dados
+ ┃ ┃ ┣ 📂 Gestão Empresarial e Dinâmicas das Organizações
+ ┃ ┃ ┣ 📂 Desenvolvimento Web Full Stack
+ ┃ ┃ ┗ 📂 Projeto Interdisciplinar: Programação Web
+ ┃ ┣ 📂 Entrega 3
+ ┃ ┃ ┣ 📂 Calculo II
+ ┃ ┃ ┣ 📂 Projetos em Banco de Dados
+ ┃ ┃ ┣ 📂 Gestão Empresarial e Dinâmicas das Organizações
+ ┃ ┃ ┣ 📂 Desenvolvimento Web Full Stack
+ ┃ ┃ ┗ 📂 Projeto Interdisciplinar: Programação Web
+ ┃ ┗ 📄 Documentação.docx
+ ┣ 📂 imagens
+ ┣ 📂 src
+ ┃ ┣ 📂 Entrega 1
+ ┃ ┃ ┣ 📂 Backend
+ ┃ ┃ ┗ 📂 Frontend
+ ┃ ┣ 📂 Entrega 2
+ ┃ ┃ ┣ 📂 Backend
+ ┃ ┃ ┗ 📂 Frontend
+ ┃ ┗ 📂 Entrega 3
+ ┃   ┣ 📂 Backend
+ ┃   ┗ 📂 Frontend
+ ┣ 📄 .gitignore
+ ┗ 📄 readme.md
  
  ## 💻 Configuração para Desenvolvimento
  
