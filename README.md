@@ -28,8 +28,9 @@
 ## 🚪 Acesso à Área Administrativa
 
 ### Credenciais de Acesso
-- **URL de Acesso:** [https://institutocriativo.com/admin](https://institutocriativo.com/admin)
+
 - **Senha padrão para colaboradores:** `482590`
+-  
 
 ### 👑 Administrador Master (ADM Master)
 - **Privilégios:** Acesso total ao sistema
