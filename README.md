@@ -84,7 +84,7 @@ Este projeto visa o desenvolvimento de uma nova versão do site da ONG Instituto
  
 ## 📂 Estrutura de Pastas
 
-📦 Raiz  
+```📦 Raiz  
 ├── 📂 documentos  
 │   ├── 📂 Entrega 1  
 │   │   ├── 📂 Calculo II  
@@ -126,7 +126,7 @@ Este projeto visa o desenvolvimento de uma nova versão do site da ONG Instituto
 
 ├── 📄 .gitignore  
 └── 📄 readme.md
-
+ ```
  ## 💻 Configuração para Desenvolvimento
  
  Descreva como instalar todas as dependências para desenvolvimento e como rodar um test-suite automatizado de algum tipo. Se necessário, faça isso para múltiplas plataformas.
