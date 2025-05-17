@@ -19,6 +19,34 @@
  
  
  Este projeto tem como objetivo o desenvolvimento de uma nova versão do site da ONG Instituto Criativo, trazendo melhorias significativas na gestão e atualização de conteúdos. A principal inovação será a implementação de um dashboard administrativo, acessível exclusivamente pelo Administrador Master, que permitirá maior autonomia na administração do site sem necessidade de conhecimentos em programação.
+
+## Acesso à Área de Colaborador
+
+Para acessar a área de colaboradores, entre na seção **Área do Colaborador** no site. Esta área é protegida por senha.
+
+- **Senha para acesso:** `482590`
+
+### Tipos de usuários e cadastro
+
+- **Administrador Master (ADM Master):**  
+  - Apenas **um único ADM Master** pode ser cadastrado.  
+  - Este perfil tem acesso total ao dashboard administrativo e controle do sistema.
+
+- **Colaboradores:**  
+  - Podem existir **vários colaboradores cadastrados**.  
+  - Cada colaborador pode acessar funções específicas conforme sua permissão.
+
+Para testar a experiência completa e entender as diferenças de acesso e funcionalidades, cadastre ambos os tipos de usuário (ADM Master e colaboradores).
+
+---
+
+## Chat Interno
+
+O sistema possui um **chat interno** que permite a troca de mensagens entre colaboradores. Este canal facilita a comunicação e alinhamento entre a equipe.
+
+Para validar o funcionamento do chat, recomendamos cadastrar vários colaboradores e trocar mensagens entre eles.
+
+
  
  # Principais Funcionalidades
  1. Dashboard Administrativo
