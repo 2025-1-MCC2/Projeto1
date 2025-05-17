@@ -1,6 +1,6 @@
 # FECAP - Fundação de Comércio Álvares Penteado
 
-## ONG -Instituto Criativo
+## ONG -Instituto Criativo Dashboard 
 
 <p align="center">
   <a href="https://www.fecap.br/">
