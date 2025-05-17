@@ -85,47 +85,7 @@ Este projeto visa o desenvolvimento de uma nova versão do site da ONG Instituto
 
 ## 📂 Estrutura de Pastas
  
- -Raiz<br>
- |<br>
- |-->documentos<br>
-   &emsp;|-->Entrega 1<br>
-     &emsp;&emsp;|-->Calculo II <br>
-     &emsp;&emsp;|-->Projetos em Banco de Dados<br>
-     &emsp;&emsp;|-->Gestão Empresarial e Dinâmicas das Organizações<br>
-     &emsp;&emsp;|-->Desenvolvimento Web Full Stack<br>
-     &emsp;&emsp;|-->Projeto Interdisciplinar: Programação Web<br>
- 
-    &emsp;|-->Entrega 2<br>
-     &emsp;&emsp;|-->Calculo II <br>
-     &emsp;&emsp;|-->Projetos em Banco de Dados<br>
-     &emsp;&emsp;|-->Gestão Empresarial e Dinâmicas das Organizações<br>
-     &emsp;&emsp;|-->Desenvolvimento Web Full Stack<br>
-     &emsp;&emsp;|-->Projeto Interdisciplinar: Programação Web<br>
- 
- 
-    &emsp;|-->Entrega 2<br>
-     &emsp;&emsp;|-->Calculo II <br>
-     &emsp;&emsp;|-->Projetos em Banco de Dados<br>
-     &emsp;&emsp;|-->Gestão Empresarial e Dinâmicas das Organizações<br>
-     &emsp;&emsp;|-->Desenvolvimento Web Full Stack<br>
-     &emsp;&emsp;|-->Projeto Interdisciplinar: Programação Web<br>
- 
-   &emsp;|Documentação.docx<br>
-   readme.md<br>
- |-->imagens<br>
- |-->src<br>
-   &emsp;|-->Entrega 1<br>
-     &emsp;&emsp;|-->Backend<br>
-     &emsp;&emsp;|-->Frontend<br>
-   &emsp;|-->Entrega 2<br>
-     &emsp;&emsp;|-->Backend<br>
-     &emsp;&emsp;|-->Frontend<br>
-   &emsp;|-->Entrega 3<br>
-     &emsp;&emsp;|-->Backend<br>
-     &emsp;&emsp;|-->Frontend<br>
- |.gitignore<br>
- |readme.md<br>
- 
+
  ## 🛠 Instalação
  
  <b>Android:</b>
