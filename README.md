@@ -90,7 +90,7 @@ Este projeto visa o desenvolvimento de uma nova versão do site da ONG Instituto
 ├── 📁 [Gestão Empresarial e Dinâmicas das Organizações](https://github.com/2025-1-MCC2/Projeto1/tree/main/documentos/Entrega%203/Gest%C3%A3o%20Empresarial%20e%20Din%C3%A2micas%20das%20Organiza%C3%A7%C3%B5es)  
 
 📦 [src/Entrega 3](https://github.com/2025-1-MCC2/Projeto1/tree/main/src/Entrega%203)  
- 📁 [Desenvolvimento Web Full Stack](https://github.com/2025-1-MCC2/Projeto1/tree/main/src/Entrega%203)  
+├── 📁 [Desenvolvimento Web Full Stack](https://github.com/2025-1-MCC2/Projeto1/tree/main/src/Entrega%203)  
 
  
 ## 📂 Estrutura de Pastas
