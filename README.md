@@ -1,12 +1,13 @@
 # FECAP - Fundação de Comércio Álvares Penteado
 
+## Instituto Criativo
+
 <p align="center">
   <a href="https://www.fecap.br/">
     <img src="https://drive.google.com/uc?export=view&id=1ckMUnh5Frb5r9BEOaTR9DGvDiy6n18dO" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0">
   </a>
 </p>
 
-## Instituto Criativo
 
  ## Integrantes: <a href=https://www.linkedin.com/in/estherolvr/>Esther Oliveira Costa</a>, <a href=https://www.linkedin.com/in/higor-fonseca-santos/>Higor Fonseca </a>, <a href=https://www.linkedin.com/in/joaovictordefaria/>João Victor de Faria</a>, <a href="https://www.linkedin.com/in/mellina-de-p%C3%A1dua-618081227/">Mellina de Pádua
  
