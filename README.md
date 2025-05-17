@@ -27,7 +27,7 @@
 
 ### Credenciais de Acesso
 
-Para acessar a área de colaboradores, entre na seção **Icone de usuário no navbar** no site.  
+Para acessar a área de colaboradores, entre na seção **Icone de usuário no navbar** do site.  
 Para acessar essa área, deve digitar - **Senha padrão para colaboradores:** `482590`
 
 
