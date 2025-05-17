@@ -23,7 +23,8 @@
 
 ---
 
-<h3>🔐 ACESSO AO SISTEMA - <span style="color:#FF4464;"><strong>Senha 482590</strong></span></h3>
+# 🔐 ACESSO AO SISTEMA- Senha 482590
+
 
 ### Credenciais de Acesso
 
