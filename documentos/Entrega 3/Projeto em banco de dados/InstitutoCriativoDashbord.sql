@@ -39,7 +39,7 @@ CREATE TABLE IF NOT EXISTS eventos (
     descricao TEXT NOT NULL,
     ano VARCHAR(4) NOT NULL,
     status ENUM('pendente', 'concluido') NOT NULL DEFAULT 'pendente',
-    imagem VARCHAR(255), -- nome do arquivo salvo
+    imagem VARCHAR(255),
     autor_id INT NOT NULL,
     data_criacao TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
     FOREIGN KEY (autor_id) REFERENCES usuarios(id)
