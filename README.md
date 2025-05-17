@@ -138,19 +138,72 @@ Este projeto visa o desenvolvimento de uma nova versão do site da ONG Instituto
 ├── 📄 .gitignore  
 └── 📄 readme.md
  ```
- ## 💻 Configuração para Desenvolvimento
- 
- Descreva como instalar todas as dependências para desenvolvimento e como rodar um test-suite automatizado de algum tipo. Se necessário, faça isso para múltiplas plataformas.
- 
- Para abrir este projeto você necessita das seguintes ferramentas:
- 
- -<a href="https://godotengine.org/download">GODOT</a>
- 
- ```sh
- make install
- npm test
- Coloque código do prompt de comnando se for necessário
- ```
+## ⚙️ Configuração do Ambiente
+
+Para rodar o projeto localmente, siga os passos abaixo:
+
+### 🔐 Arquivo `.env`
+
+Crie um arquivo chamado `.env` dentro da pasta `backend` com o seguinte conteúdo:
+
+```env
+DB_HOST=127.0.0.1
+DB_USER=root
+DB_PASSWORD="@#$273barata"  # ← Coloque sua senha aqui ou remova se não houver
+DB_NAME=InstitutoCriativoDashbord
+DB_PORT=3306
+JWT_SECRET=591e0a859f2c1b10a04d04a29cbb0f474b25f8743ae5277d6ae70d2e6d9bc596
+```
+
+> ℹ️ **Observação:**  
+> Se o seu MySQL **não tiver senha**, remova a linha `DB_PASSWORD` ou deixe-a assim:  
+> `DB_PASSWORD=`  
+>  
+> No arquivo `backend/config/db.js`, altere:
+>
+> ```js
+> password: process.env.DB_PASSWORD || ""
+> ```
+
+---
+
+### 🚀 Iniciando o Projeto
+
+1. Instale as dependências do backend:
+
+```bash
+cd backend
+npm install
+```
+
+2. Volte para a raiz do projeto (frontend) e instale as dependências:
+
+```bash
+cd ..
+npm install
+```
+
+3. Inicie os servidores:
+
+**Backend:**
+
+```bash
+cd backend
+npm run dev
+```
+
+**Frontend:**
+
+```bash
+cd ..
+npm start
+```
+
+---
+
+✅ Pronto! O projeto estará rodando em:  
+[http://localhost:3000](http://localhost:3000) 🎉
+
  
  ## 📋 Licença/License
  Utilize o link <https://chooser-beta.creativecommons.org/> para fazer uma licença CC BY 4.0.
