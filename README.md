@@ -25,12 +25,12 @@
 
 # 🔐 ACESSO AO SISTEMA
 
-## 🚪 Acesso à Área Administrativa
-
 ### Credenciais de Acesso
 
-- **Senha padrão para colaboradores:** `482590`
--  
+Para acessar a área de colaboradores, entre na seção **Icone de usuário no navbar** no site.  
+Para acessar essa área, deve digitar - **Senha padrão para colaboradores:** `482590`
+
+
 
 ### 👑 Administrador Master (ADM Master)
 - **Privilégios:** Acesso total ao sistema
