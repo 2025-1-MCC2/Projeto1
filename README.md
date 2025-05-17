@@ -59,9 +59,10 @@ Para acessar essa área, deve digitar - **Senha padrão para colaboradores:** `4
 Este projeto visa o desenvolvimento de uma nova versão do site da ONG Instituto Criativo, com foco em:
 
 - Implementação de um **dashboard administrativo** completo
-- Autonomia na gestão de conteúdo **sem necessidade de conhecimentos técnicos**
-- Sistema de atualização automatizado de eventos e projetos
-- Comunicação interna via chat entre colaboradores
+- Autonomia total para atualizar o site **exclusivamente por meio do dashboard**, sem necessidade de conhecimentos técnicos
+- Todos os eventos criados no dashboard são enviados automaticamente para a área pública de eventos do site
+- Comunicação interna via **chat** entre colaboradores, permitindo troca de mensagens e alinhamento de atividades
+
 
 ---
 
