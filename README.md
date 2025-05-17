@@ -29,9 +29,9 @@ Para acessar essa área, deve digitar - **Senha padrão para colaboradores:** `4
 - **Privilégios:** Acesso total ao sistema
 - **Cadastro:** Apenas um ADM Master pode ser cadastrado
 - **Funcionalidades exclusivas:**
-  - Gerenciamento completo do dashboard
-  - Cadastro de novos colaboradores
-  - Controle de permissões
+  - Gerar Retatorios por meio de PDF
+  - Editar e excluir eventos do outros colaboradores
+  - Ter infos geral os KPis de numero de eventos
 
 ### 👥 Colaboradores
 - **Privilégios:** Acesso limitado conforme permissões
