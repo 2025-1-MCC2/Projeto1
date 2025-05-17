@@ -75,16 +75,6 @@ Este projeto visa o desenvolvimento de uma nova versão do site da ONG Instituto
 
 ---
 
-## 🛠 Tecnologias Utilizadas
-- **Frontend:** React + Vite
-- **Estilização:** Tailwind CSS
-- **Backend:** .NET
-- **Banco de Dados:** MySQL
-- **Gerenciamento de Estado:** Context API
-- **Gráficos:** Recharts
-- **Ferramentas:** ESLint, Prettier, PostCSS
-
----
 
  # 🚀 Tecnologias Utilizadas
  Este projeto foi desenvolvido utilizando as seguintes tecnologias:
