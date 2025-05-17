@@ -81,6 +81,18 @@ Este projeto visa o desenvolvimento de uma nova versão do site da ONG Instituto
  🌐 Gerenciamento de Estado: Context API<br>
  📊 Gráficos e Visualizações: Recharts<br>
  🔧 Outras Ferramentas: ESLint, Prettier, PostCSS<br>
+
+## 📂 Links (Entrega 3)
+
+📦 [documentos/Entrega 3](https://github.com/2025-1-MCC2/Projeto1/tree/main/documentos/Entrega%203)  
+├── 📁 [Calculo II](https://github.com/2025-1-MCC2/Projeto1/tree/main/documentos/Entrega%203/Calculo%20II)  
+├── 📁 [Projetos em Banco de Dados](https://github.com/2025-1-MCC2/Projeto1/tree/main/documentos/Entrega%203/Projeto%20em%20banco%20de%20dados)  
+├── 📁 [Gestão Empresarial e Dinâmicas das Organizações](https://github.com/2025-1-MCC2/Projeto1/tree/main/documentos/Entrega%203/Gest%C3%A3o%20Empresarial%20e%20Din%C3%A2micas%20das%20Organiza%C3%A7%C3%B5es)  
+
+📦 [src/Entrega 3](https://github.com/2025-1-MCC2/Projeto1/tree/main/src/Entrega%203)  
+├── 📁 Backend  
+└── 📁 Frontend
+
  
 ## 📂 Estrutura de Pastas
 
