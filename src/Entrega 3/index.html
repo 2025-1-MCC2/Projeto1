@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    
+    <!-- Meta tags for SEO -->
+    <meta name="description" content="Instituto Criativo - Promovendo a criatividade e inovação.">
+    <meta name="keywords" content="criatividade, inovação, educação, instituto criativo">
+    <meta name="author" content="Instituto Criativo">
+
+    <!-- Favicon -->
+    <link href="https://www.institutocriativo.com.br/images/favicon.png" rel="shortcut icon" type="image/x-icon">
+
+    <title>Instituto Criativo</title>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.jsx"></script>
+
+    <!-- VLibras Widget -->
+    <div vw class="enabled">
+      <div vw-access-button class="active"></div>
+      <div vw-plugin-wrapper>
+        <div class="vw-plugin-top-wrapper"></div>
+      </div>
+    </div>
+    <script src="https://vlibras.gov.br/app/vlibras-plugin.js"></script>
+    <script>
+      new window.VLibras.Widget('https://vlibras.gov.br/app');
+    </script>
+  </body>
+</html>
