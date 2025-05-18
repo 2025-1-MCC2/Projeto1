@@ -168,7 +168,7 @@ JWT_SECRET=591e0a859f2c1b10a04d04a29cbb0f474b25f8743ae5277d6ae70d2e6d9bc596
 ---
 
 ### 🚀 Iniciando o Projeto
-Instale as duas para rodar o projeto um para o frot e outra para o backed
+Instale as duas para rodar o projeto um para o front e outra para o backed
 
 1. Instale as dependências do backend:
 
